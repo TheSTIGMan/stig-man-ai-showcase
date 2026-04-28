@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+slowapi
+lxml
+chromadb
+sentence-transformers>=2.2.0
+pydantic
+openai
+python-dotenv
