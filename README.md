@@ -230,3 +230,8 @@ docker stop stigmanAI
 ## 9. Conclusion
 
 **STIG Man AI** represents a significant leap forward in cybersecurity compliance tooling. By abstracting the complexity of DISA STIGs through a RAG-powered mentor, it empowers junior staff to perform expert-level security hardening. The application’s blend of high-precision retrieval, simple language generation, and robust security architecture makes it a valuable asset for any organization maintaining secure Linux environments.
+
+
+**Disclaimer**
+**STIG Man AI** can make mistakes like any other AI product. Please verify important information.
+For educational and reference use only.
